@@ -1,6 +1,6 @@
 {
   "name": "weui-wxss",
-  "version": "0.1.1",
+  "version": "1.1.1",
   "description": "weui-wxss",
   "main": "dist/app.wxss",
   "directories": {
@@ -15,7 +15,7 @@
     "url": "https://github.com/weui/weui-wxss/"
   },
   "keywords": ["weui", "wxss"],
-  "author": "",
+  "author": "wechat ui team",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^6.5.1",
